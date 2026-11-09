@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.mp4
+*.wav
+preview_*.png
+_video_silent.mp4
+.venv/
+.DS_Store
